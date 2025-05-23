@@ -1,0 +1,170 @@
+{
+    "greeting": "Hello",
+    "hero": {
+        "subtitle": "Motion & Emotion – Breathing feeling into motion"
+    },
+    "menu": {
+        "story": "Story",
+        "about": "About",
+        "join": "Join"
+    },
+    "lang": {
+        "ko": "Korean",
+        "en": "English",
+        "code": "en"
+    },
+    "about": {
+        "title": "About MOnE",
+        "h1": "MOnE",
+        "subtitle": "dreams of the future.",
+        "description1": "MOnE was founded in 2021 with the goal of \"Let's create valuable content!\"",
+        "description2": "We are continuing content development intending to link animation with\n various media to expand IP.",
+        "description3": "As a place where artists freely share their creative ideas,\n MOnE is ready for the future media market.",
+        "goals": {
+            "title": "MOnE's Goals",
+            "1": "We create a work that does not neglect either the uniqueness of the story\n or the originally of the visual.",
+            "2": "We create content with new technologies such as metaverse and AR/VR.",
+            "3": "We create an IP that expands endlessly and will become an icon as a trendsetter"
+        },
+        "artists": {
+            "title": "Artist Support",
+            "description": "MOnE supports the passion of artists and continues development and creation."
+        }
+    },
+    "join": {
+        "title": "Join Us",
+        "h1": "Contact",
+        "description": "We are waiting for those who will join MOnE. Please check our location, contact information, and email.",
+        "contact": {
+            "title": "Contact Information",
+            "address": "Location",
+            "addressValue": "705, 49, Achasan-ro 17-gil, Seongdong-gu, Seoul, Republic of Korea",
+            "tel": "Phone",
+            "telLabel": "Contact us by phone",
+            "email": "E-mail",
+            "emailLabel": "Contact us by email"
+        }
+    },
+    "projectDetail": {
+        "title": "Project Details",
+        "subtitle": "Subtitle",
+        "description": "Project Description",
+        "subDescription": "Additional Description",
+        "genre": "Genre",
+        "target": "Target",
+        "format": "Format",
+        "client": "Client",
+        "period": "Period",
+        "gallery": "Gallery",
+        "details": "Details"
+    },
+    "portfolio": {
+        "superclock": {
+            "title": "SuperClock",
+            "alt": "SuperClock"
+        },
+        "fuzz": {
+            "title": "Fuzz",
+            "alt": "Fuzz"
+        },
+        "opportunity": {
+            "title": "Opportunity",
+            "alt": "Opportunity"
+        },
+        "pippoppopia": {
+            "title": "PipPopPoPiA",
+            "alt": "PipPopPoPiA"
+        },
+        "foodrangers": {
+            "title": "FoodRANGERS",
+            "alt": "FoodRANGERS"
+        },
+        "pawaw": {
+            "title": "Pawaw",
+            "alt": "Pawaw"
+        },
+        "pinpin": {
+            "title": "PinPin",
+            "alt": "PinPin"
+        },
+        "bookypaky": {
+            "title": "BookyPaky",
+            "alt": "BookyPaky"
+        }
+    },
+    "projectDetails": {
+        "superclock": {
+            "title": "Super Clock",
+            "description": "One day, Eugene noticed something... off.\n Torches lined the streets. Cars had candles instead of headlights.\n 'Wait... Where's the lightbulb?'\n Turns out, someone messed with the past.\n And now the present is falling apart.\n Enter Adams: a time-traveling space cop who crashed-landed\n in a stationery shop. His time machine?\n Only works for kids under 12. (Oops.)\n So now, Eungene and his friends --aka the 'Little Avengers'--\n are off to rescue world history.\n Ride a dinosaur, save Edison, protect the Mona Lisa.",
+            "subDescription": "This is not a history lesson.\n This is SuperClock.\n And it's ticking.",
+            "genre": "History Action Adventure",
+            "target": "Ages 6 - 10",
+            "format": "11 min x 26 eps / 3D CGI_2D FX"
+        },
+        "fuzz": {
+            "title": "Fuzz",
+            "subTitle": "Forget pretty. Fuzz is the center now",
+            "description": "Red, spiky fur. Giant annoyed eyes.\n Fuzz thinks he's the ugliest cat in the world.\n Jealous? Always. Cute poses? Disaster. DIY makeover? Glorious mess.\n But somehow... watching Fuzz makes you laugh.\n And weirdly, feel a little better about yourself.\n Because being ugly? Kinda freeing.\n Because being a mess? Also kinda iconic.\n Fuzz isn't here to impress.\n He's here to exist - loudly, weirdly, and proudly.",
+            "subDescription": "'Ugly? That's not an insult. That's my brand,'",
+            "genre": "Comedy / Self-deprecating character sitcom / Slapstick",
+            "target": "Ages 13 - 29 (Gen Z & MZ) / Fans of chaos, flaws, and brutal self-honesty",
+            "format": "3-5 min x 30 eps / Short-form animation / YouTube Shorts, TikTok, Reels optimized"
+        },
+        "opportunity": {
+            "title": "Opportunity",
+            "subTitle": "A romance between stars.\n What happens when a machine starts to feel?",
+            "description": "Left behind on Mars,\n the robotic explorer Opportunity prepares for the end...\n until one night, a voice finds him\n A nameless song. A faceless singer\n Her name is Luna - and her music crosses the galaxy.\n But inside the rover, a secret memory stirs.\n He wasn't just a machine. He was someone she once knew.\n As Luna's voice brings the past back to life,\n childhood dreams rewaken,\n and a hidden conspiracy threatens to bury them all.",
+            "subDescription": "Opportunity - A journey beyond Mars,\n toward memory, music, and meaning.",
+            "genre": "SF / Family / Romance / Space Adventure",
+            "target": "All ages (Family & Gen Z-MZ emotional viewers)",
+            "format": "120min / 3D Animated Feature Film / Theatrical"
+        },
+        "pippoppopia": {
+            "title": "PipPopPoPiA",
+            "subTitle": "Middle school drama. Superpowers. And... an idol audition?!",
+            "description": "Five K-pop fangirls stumble upon a mysterious box and a lazy fat cat.\n That cat? A retired hero. The box?\n A set of magical accessories that gran real superpowers.\n Flying necklace. Teleporting anklet. Headband that sees\n five minutes into the future.\n Bracelet with super strength. Earrings that let you talk to animals.\n Saving the world? Meh.\n These girls are busy with crushes, jealousy, and K-pop daydreams.\n Until one day...\n 'Let's become idols. And get that close to Seven Spirit.'",
+            "subDescription": "Superpowers, friendship chaos, and the wildest audition ever---\n Welcome to PipPopPoPiA.",
+            "genre": "Hero x Idol x Comedy x Coming-of-age",
+            "target": "Ages 9 - 13",
+            "format": "11 min x 26 eps / 3D CGI"
+        },
+        "foodrangers": {
+            "title": "Food Rangers",
+            "subTitle": "Cooking is kid's greatest weapon.",
+            "description": "Children save the world one recipe at a time.\n A flavorful action-adventure mixed with health,\n taste, teamwork, and imagination!\n As junk food villains rise, the FoodRANGERS fight to protect real flavor.",
+            "genre": "Comedy, Cooking, Adventure",
+            "target": "Ages 4 - 6",
+            "format": "11 min x 26 eps / 3D CGI_2D FX"
+        },
+        "pawaw": {
+            "title": "Pawaw",
+            "subTitle": "'I sent my pet to preschool for social skills... Now they run the place.'",
+            "description": "Welcome to Ddongle Kindergarten.\n Where cute pets lead secret lives of chaos: Snack smuggling.\n TikTok fame-chasing, Rap battles on rooftops, and a black market for allergy pills.\n <ul class='mt-4 space-y-2'><li class='flex items-center gap-2'><img src='/images/icons/cat.png' class='w-8 h-8' /><p>Ddongle-Nyang - Lazy mastermind, minimal effort, maximum gain</p></li><li class='flex items-center gap-2'><img src='/images/icons/dog.png' class='w-8 h-8' /><p>Ddongle-Liver - Obsessive helper, probaably needs a vacation</p></li><li class='flex items-center gap-2'><img src='/images/icons/sheep.png' class='w-8 h-8' /><p>Ddongle-Ka - spits bars and saliva</p></li><li class='flex items-center gap-2'><img src='/images/icons/penguin.png' class='w-8 h-8' /><p>Ddongle-Peng - Underwater rave king</p></li><li class='flex items-center gap-2'><img src='/images/icons/rabbit.png' class='w-8 h-8' /><p>Ddongle-Bbit - Gosship queen, chat room MVP</p></li><li class='flex items-center gap-2'><img src='/images/icons/mouse.png' class='w-8 h-8' /><p>Ddongle-Lit - The thief in the night</p></li><li class='flex items-center gap-2'><img src='/images/icons/giny.png' class='w-8 h-8' /><p>Ddongle-Guinea - Runs the under-table pharmacy</p></li><li class='flex items-center gap-2 mb-4'><img src='/images/icons/fox.png' class='w-8 h-8' /><p>Ddongle-Kara - TikTok star in the making</p></li></ul> \n Behind every 'aww' is an 'OMG.'",
+            "subDescription": "PAWAW - A preschool parody for pets and chaos lovers.",
+            "genre": "Pet parody, kindergarten chaos sitcom, short-form comedy",
+            "target": "Ages 13 - 19 (Alpha Gen) + 20s / 30s pet owners",
+            "format": "2 min x episodic shorts / For TikTok, YouTube Shorts, Instagram Reels"
+        },
+        "pinpin": {
+            "title": "Pinpin",
+            "subTitle": "Irresistible, wherever you pin them. That's PinPin",
+            "description": "Desk corners. Backpack straps. Bathroom door hooks.\n These tiny things are supposed to be quiet keychains.\nSpoiler: they're not.\n <ul class='flex flex-col gap-2 pl-4 my-4'><li class='list-disc'>Cot - Self-love queen. Chaotic cute.</li><li class='list-disc'>Bella - Order-obsessed planner in a world of chaos.</li><li class='list-disc'>Peony - Soft, scared, and always somehow in the mess.</li>In front of humans? Frozen. Alone? Full-on sitcom.",
+            "subDescription": "PinPin isn't just cute.\n They're too cute - and that's the real problem.",
+            "genre": "B-grade short-form sitcom / Comedy / Character-driven Slapstick",
+            "target": "Ages 17-25 / Short-from comedy fans",
+            "format": "5 min x 26 eps / Hybrid (Live-action + 3D) / YouTube, TikTok, Reels"
+        },
+        "bookypaky": {
+            "title": "BookyPaky",
+            "subTitle": "A story no one else has - crafted by your child.",
+            "description": "BookyPaky is an AI-powered interactive storytelling app where kids\n create their own fairy tales through choices.<ul class='flex flex-col gap-2 pl-4 mt-4'><li class='list-disc'>They choose the characters, the paths, and the endings</li><li class='list-disc'>Every choice leads to a new story - and a new world.</li><li class='list-disc'>Once the story is complete, it becomes a digital book...\n or a real printed keepsake.</li></ul> Along the way, kids solve puzzles, play mini-games,\n and discover surprises. And in the end, they'll say:\n 'I made this'",
+            "subDescription": "BookyPaky - Where choices create stories",
+            "genre": "Interactive Storytelling App, AI-powered Kid Content",
+            "target": "Ages 3-7 children & Parents (Creative, Emotional Growth, Family Play)",
+            "format": "Mobile App / AI-generated story + images / Printable storybook option"
+        }
+    },
+    "story": {
+        "title": "Stories"
+    }
+}
