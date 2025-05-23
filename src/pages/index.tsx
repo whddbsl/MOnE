@@ -19,12 +19,13 @@ export default function Home() {
     return (
         <>
             <Head>
-                <title>{`${t("about")} | MOnE`}</title>
+                <title>MOnE Studio</title>
                 <meta
                     name="description"
-                    content="MOnE 애니메이션 회사 홈페이지"
+                    content="MOnE Studio 홈페이지"
                 />
                 <html lang={t("lang.code")} />
+                <link rel="icon" href="/favicon.ico" />
             </Head>
             <main className={fontClass}>
                 {selectedProject === null ? (
