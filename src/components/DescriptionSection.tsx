@@ -2,7 +2,7 @@ import Link from "next/link";
 import { useTranslation } from "next-i18next";
 
 export default function DescriptionSection() {
-    const { i18n } = useTranslation("common");
+    const { i18n, t } = useTranslation("common");
     const fontClass = i18n.language === "ko" ? "font-paperlogy" : "font-sans";
 
     return (
@@ -11,7 +11,7 @@ export default function DescriptionSection() {
             aria-label="스튜디오 소개 및 참여 유도 섹션"
         >
             <p className="text-xs lg:text-xl">
-                이야기가 다 끝났다고 생각하셨나요? 지금부터 진짜가 시작됩니다.
+                {t("description.message")}
             </p>
 
             <nav
@@ -28,7 +28,7 @@ export default function DescriptionSection() {
                         aria-label="모앤이 스튜디오 소개 페이지로 이동"
                     >
                         <span aria-hidden="true">▶</span>
-                        <span>모앤이에 대해 더 알아보기</span>
+                        <span>{t("description.about")}</span>
                     </button>
                 </Link>
 
@@ -42,7 +42,7 @@ export default function DescriptionSection() {
                         aria-label="함께 만들기 페이지로 이동"
                     >
                         <span aria-hidden="true">▶</span>
-                        <span>함께 만들기</span>
+                        <span>{t("description.contact")}</span>
                     </button>
                 </Link>
             </nav>

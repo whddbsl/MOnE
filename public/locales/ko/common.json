@@ -38,7 +38,7 @@
         }
     },
     "menu": {
-        "story": "이야기",
+        "story": "프로젝트",
         "about": "모앤이는",
         "join": "함께하기"
     },
@@ -139,7 +139,7 @@
         "pawaw": {
             "title": "파우와우",
             "subTitle": "'우리 애기, 유치원 가면 사회성 배운다더니... 왠지 더 세졌어요?'",
-            "description": "똥글 유치원은 다릅니다.\n 건식 vs 습식 급식 전쟁, 수상한 약물 거래,\n 몰래 찍은 틱톡 댄스, 그리고 은밀한 랩 배틀까지.\n 겉은 천사, 속은 악마.\n 귀여운 얼굴에 한 성격 하는 댕냥이들이\n 하루하루 대환장 드라마를 찍는 곳.\n <ul class='mt-4 space-y-2'><li class='flex items-center gap-2'><img src='/images/icons/cat.png class='w-8 h-8' /><p>똥글냥이 - 최소 노력 최대 이득 시크냥</p></li><li class='flex items-center gap-2'><img src='/images/icons/dog.png' class='w-8 h-8' /><p>똥글리버 - 자발적 일 중독 천사견</p></li><li class='flex items-center gap-2'><img src='/images/icons/sheep.png' class='w-8 h-8' /><p>똥글카 - 침 뱉는 래퍼 알파카</p></li><li class='flex items-center gap-2'><img src='/images/icons/penguin.png' class='w-8 h-8' /><p>똥글펭 - 몰래 파티 주최하는 수영장 마스터</p></li><li class='flex items-center gap-2'><img src='/images/icons/rabbit.png' class='w-8 h-8' /><p>똥글빗 - 개썰 타임 전문 인싸 토끼</p></li><li class='flex items-center gap-2'><img src='/images/icons/mouse.png' class='w-8 h-8' /><p>똥글릿 - 유치원 창고 털이범</p></li><li class='flex items-center gap-2'><img src='/images/icons/giny.png' class='w-8 h-8' /><p>똥글기니 - 약을 지배하는 금수저 밀거래상</p></li><li class='flex items-center gap-2'><img src='/images/icons/fox.png' class='w-8 h-8' /><p>똥글카라 - 댄스로 세상을 구하는 전학생</p></li></ul>\n 오늘도 선생님은 말합니다. '얘들아~ 오늘도 평화롭게 지내자~'",
+            "description": "똥글 유치원은 다릅니다.\n 건식 vs 습식 급식 전쟁, 수상한 약물 거래,\n 몰래 찍은 틱톡 댄스, 그리고 은밀한 랩 배틀까지.\n 겉은 천사, 속은 악마.\n 귀여운 얼굴에 한 성격 하는 댕냥이들이\n 하루하루 대환장 드라마를 찍는 곳.\n <ul class='mt-4 space-y-2'><li class='flex items-center gap-2'><img src='/images/icons/cat.png' class='w-8 h-8' /><p>똥글냥이 - 최소 노력 최대 이득 시크냥</p></li><li class='flex items-center gap-2'><img src='/images/icons/dog.png' class='w-8 h-8' /><p>똥글리버 - 자발적 일 중독 천사견</p></li><li class='flex items-center gap-2'><img src='/images/icons/sheep.png' class='w-8 h-8' /><p>똥글카 - 침 뱉는 래퍼 알파카</p></li><li class='flex items-center gap-2'><img src='/images/icons/penguin.png' class='w-8 h-8' /><p>똥글펭 - 몰래 파티 주최하는 수영장 마스터</p></li><li class='flex items-center gap-2'><img src='/images/icons/rabbit.png' class='w-8 h-8' /><p>똥글빗 - 개썰 타임 전문 인싸 토끼</p></li><li class='flex items-center gap-2'><img src='/images/icons/mouse.png' class='w-8 h-8' /><p>똥글릿 - 유치원 창고 털이범</p></li><li class='flex items-center gap-2'><img src='/images/icons/giny.png' class='w-8 h-8' /><p>똥글기니 - 약을 지배하는 금수저 밀거래상</p></li><li class='flex items-center gap-2'><img src='/images/icons/fox.png' class='w-8 h-8' /><p>똥글카라 - 댄스로 세상을 구하는 전학생</p></li></ul>\n 오늘도 선생님은 말합니다. '얘들아~ 오늘도 평화롭게 지내자~'",
             "subDescription": "파우와우 - 귀여운 척 하는 B급 유치원 시트콤!",
             "genre": "막장 학원물, 반려동물 패러디 시트콤, 코미디",
             "target": "13 ~ 19세 알파세대 + 반려인 20, 30대",
@@ -165,6 +165,11 @@
         }
     },
     "story": {
-        "title": "이야기"
+        "title": "프로젝트"
+    },
+    "description":{
+         "message": "이야기가 다 끝났다고 생각하셨나요? 지금부터 진짜가 시작됩니다.",
+         "about": "모앤이에 대해 더 알아보기",
+         "contact": "함께 만들기"
     }
 }

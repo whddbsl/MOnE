@@ -4,7 +4,7 @@
         "subtitle": "Motion & Emotion – Breathing feeling into motion"
     },
     "menu": {
-        "story": "Story",
+        "story": "Project",
         "about": "About",
         "join": "Join"
     },
@@ -165,6 +165,11 @@
         }
     },
     "story": {
-        "title": "Stories"
+        "title": "Projects"
+    },
+    "description":{
+         "message": "You thought the story was over? Now, the real one begins.",
+         "about": "about",
+         "contact": "Contact"
     }
 }
